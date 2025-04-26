@@ -15,7 +15,7 @@ jobs:
       contents: write
     steps:
       - name: Print TEST key
-        run: echo "TEST key is: ${{ secrets.TEST }}"
+        run: "echo \"TEST key is: ${{ secrets.TEST }}\""
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.SECRET_KEY }}
