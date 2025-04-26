@@ -19,3 +19,5 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          plugin_isocalendar: yes
+
