@@ -1,3 +1,3 @@
 # Hi there 💋
 
-[![Wuzzy's GitHub stats](/github-metrics.svg)
+![Wuzzy's GitHub stats](/github-metrics.svg)
